@@ -1,26 +1,15 @@
-# Rohan Allen
+# Hi there, I'm Rohan Allen 👋
 
-### **Engineering the Agentic Future**
-**AI/ML Scientist | Specializing in Multi-modal LLMs & RAG Systems**
+I am an **AI/ML Scientist and Engineer** with over three years of professional experience developing and productionizing advanced AI solutions. I specialize in **Natural Language Processing (NLP)** and **Generative AI**, with specific expertise in architecting agentic workflows, RAG pipelines, and multimodal deep learning models. 
 
-I build systems that bridge the gap between static LLMs and autonomous, production-ready agents. My focus is on **perceptive intelligence**, **long-horizon planning**, and **high-throughput RAG architectures**—moving beyond simple chat interfaces to proactive AI ecosystems.
+I recently earned my **Master’s in Computer Science from Johns Hopkins University**, where I focused on moving experimental AI frameworks into robust, production-ready environments.
 
----
+### 🧠 Technical Focus & Expertise
 
-### 🧠 **Core Specialization**
-* **Agentic Frameworks**: Designing autonomous loops for complex tool-use and task execution.
-* **Scalable RAG**: High-precision semantic retrieval from multi-million record unstructured datasets.
-* **Multi-modal Perception**: Integrating vision (YOLOv5) and language (BERT/LLMs) for proactive interaction.
-* **Production MLOps**: Scaling inference pipelines on AWS/GCP for real-time, sub-200ms latency.
-
----
-
-### 🛠️ **Technical Ecosystem**
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **NLP & LLMs** | `LangChain` `Transformers` `LangGraph` `PydanticAI` `Vector DBs (FAISS/Milvus)` |
-| **Vision & ML** | `PyTorch` `TensorFlow` `OpenCV` `YOLOv5` `Scikit-Learn` |
-| **Engineering** | `Python` `C++` `PySpark` `FastAPI` `Docker` `AWS SageMaker` `Linux` |
+* **🚀 Generative AI & LLMs:** Designing autonomous agentic workflows, LangChain/LangGraph orchestration, and high-precision RAG systems for large-scale unstructured data.
+* **🧪 NLP & Deep Learning:** Expertise in BERT, Transformer architectures, fine-tuning (LoRA/QLoRA), and multimodal intent detection using PyTorch.
+* **⚙️ Production Engineering:** Scaling MLOps pipelines on AWS/GCP to process **10M+ daily records** while optimizing for **sub-200ms** real-time inference latency.
+* **🛡️ System Architecture:** Building secure wrappers for LLM deployments (Prompt Injection/RCE defense) and integrating AI agents with complex backend infrastructures.
 
 ---
 
