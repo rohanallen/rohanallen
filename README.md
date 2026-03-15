@@ -8,7 +8,7 @@ I recently earned my **Master’s in Computer Science from Johns Hopkins Univers
 ### 🧠 Technical Focus & Expertise
 
 * **🚀 Generative AI & LLMs:** Designing autonomous agentic workflows, LangChain/LangGraph orchestration, and high-precision RAG systems for large-scale unstructured data.
-* **🧪 NLP & Deep Learning:** Expertise in BERT, Transformer architectures, fine-tuning (LoRA/QLoRA), and multimodal intent detection using PyTorch.
+* **🧪 Natural Language Processing:** Transformer architectures, BERT, fine-tuning (LoRA/QLoRA), and semantic search optimization.
 * **👁️ Multimodal Deep Learning:** Integration of vision and language for proactive intent detection and human-agent interaction.
 * **⚙️ Production Engineering:** Scaling MLOps pipelines on AWS/GCP to process **10M+ daily records** while optimizing for **sub-200ms** real-time inference latency.
 
