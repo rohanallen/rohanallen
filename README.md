@@ -28,4 +28,4 @@ I recently earned my **Master’s in Computer Science from Johns Hopkins Univers
 ---
 
 ### 📫 **Connect**
-[LinkedIn](https://www.linkedin.com/in/rohanallen/) • [Email](mailto:rohanallen188@gmail.com) • [Research Publications](https://scholar.google.com/...)
+[LinkedIn](https://www.linkedin.com/in/rohan-allen/) • [Email](mailto:rohanallen18@gmail.com) • [Research Publications](https://scholar.google.com/citations?user=CzzHtfcAAAAJ&hl=en)
