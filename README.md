@@ -2,7 +2,7 @@
 
 I am an **AI/ML Scientist and Engineer** with over three years of experience architecting and productionizing high-impact AI solutions for complex, unstructured data environments. I specialize in **Natural Language Processing (NLP)** and **Generative AI**, with a core focus on designing **agentic workflows** and **RAG pipelines** that translate massive narrative datasets into structured, actionable intelligence.
 
-I recently earned my **Master’s in Computer Science from Johns Hopkins University**, where my research centered on transitioning experimental frameworks—such as multimodal perception and intent detection models—into robust, production-ready environments.
+I recently earned my **Master’s in Computer Science from Johns Hopkins University**, where my research centered on transitioning experimental frameworks, such as multimodal perception and intent detection models, into robust, production-ready environments.
 
 ---
 ### 🧠 Technical Focus & Expertise
