@@ -7,6 +7,7 @@ My work focuses on building practical AI systems end to end — from experimenta
 * multimodal ML systems
 * financial machine learning and time-series modeling
 * production ML infrastructure
+
 ---
 ### 🧠 Technical Focus & Expertise
 
@@ -14,7 +15,6 @@ My work focuses on building practical AI systems end to end — from experimenta
 * **🧪 Natural Language Processing:** Transformer architectures, BERT, fine-tuning (LoRA/QLoRA), and semantic search optimization.
 * **👁️ Multimodal Deep Learning:** Integration of vision and language for proactive intent detection and human-agent interaction.
 * **⚙️ Production Engineering:** Scaling MLOps pipelines on AWS/GCP to process **10M+ daily records** while optimizing for **sub-200ms** real-time inference latency.
-
 
 ---
 
@@ -32,5 +32,5 @@ My work focuses on building practical AI systems end to end — from experimenta
 
 ---
 
-### 📫 **Connect**
+### 📫 ** Let's Connect**
 [LinkedIn](https://www.linkedin.com/in/rohan-allen/) • [Email](mailto:rohanallen18@gmail.com) • [Research Publications](https://scholar.google.com/citations?user=CzzHtfcAAAAJ&hl=en)
