@@ -1,7 +1,7 @@
 # Hi there, I'm Rohan Allen 👋
 
 I’m an AI/ML Engineer specializing in NLP, LLM systems, and production ML, with experience applying machine learning to fintech risk modeling and quantitative research.
-My work focuses on building practical AI systems end to end — from experimentation and modeling to evaluation, deployment, and monitoring. I’m especially interested in:
+My work focuses on building practical AI systems end to end, from experimentation and modeling to evaluation, deployment, and monitoring. I’m especially interested in:
 * NLP and generative AI
 * RAG and agentic workflows
 * multimodal ML systems
@@ -32,5 +32,5 @@ My work focuses on building practical AI systems end to end — from experimenta
 
 ---
 
-### 📫 ** Let's Connect**
+### 📫 **Let's Connect**
 [LinkedIn](https://www.linkedin.com/in/rohan-allen/) • [Email](mailto:rohanallen18@gmail.com) • [Research Publications](https://scholar.google.com/citations?user=CzzHtfcAAAAJ&hl=en)
